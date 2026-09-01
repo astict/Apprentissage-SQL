@@ -40,22 +40,22 @@ Ce parcours est basé sur la série de tutoriels de la chaîne *Grafikart.fr*.
 https://www.youtube.com/watch?v=iHKE_4KeNWQ&list=PLjwdMgw5TTLXXpRlzDZq7d8iS6YXgnslt&index=1
     
     
-### TUTO N°2 - Apprendre et maitriser SQL : Démarrer avec SQLite sur VSCode -- ⏳
+### TUTO N°2 - Apprendre et maitriser SQL : Démarrer avec SQLite sur VSCode -- ✅
 
 https://www.youtube.com/watch?v=HM8ihP0MzE8&list=PLjwdMgw5TTLXXpRlzDZq7d8iS6YXgnslt&index=2
 
 
-### TUTO N°3 - Apprendre et maitriser SQL : Démarrer avec SQLite dans le terminal -- ⏳
+### TUTO N°3 - Apprendre et maitriser SQL : Démarrer avec SQLite dans le terminal -- ✅
 
 https://www.youtube.com/watch?v=wGqVjwNpBxY&list=PLjwdMgw5TTLXXpRlzDZq7d8iS6YXgnslt&index=3
 
 
-### TUTO N°4 - Apprendre et maitriser SQL : Démarrer avec SQLite sur TablePlus -- ⏳
+### TUTO N°4 - Apprendre et maitriser SQL : Démarrer avec SQLite sur TablePlus -- ✅
 
 https://www.youtube.com/watch?v=awnTOWQckpo&list=PLjwdMgw5TTLXXpRlzDZq7d8iS6YXgnslt&index=4
 
 
-### TUTO N°5 - Apprendre et maitriser SQL : Créer sa première table -- ⏳
+### TUTO N°5 - Apprendre et maitriser SQL : Créer sa première table -- ✅
 
 https://www.youtube.com/watch?v=67pOwWxhXP4&list=PLjwdMgw5TTLXXpRlzDZq7d8iS6YXgnslt&index=5
 

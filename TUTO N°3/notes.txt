@@ -1,0 +1,10 @@
+Pour exécuter SQLite dans un terminal : 
+
+    -- Si le binaire sqlite3 est installé sur ton système :    sqlite3 db.sqlite
+
+    -- Si tu as un exécutable local dans ton dossier courant :  ./sqlite3 db.sqlite
+
+(Note : sous Linux, un fichier de base de données comme db.sqlite n'a pas besoin des droits d'exécution chmod +x ; c'est un fichier de données lu par le programme sqlite3.)
+
+
+La commande .quit (ou son raccourci .q) permet de fermer le terminal SQLite et d'en sortir pour revenir à l'invite de commande de ton terminal Linux.
